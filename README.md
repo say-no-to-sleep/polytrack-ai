@@ -12,7 +12,7 @@ If this repo miraculously solved all the problems and had a breakthrough in the 
 | Step | Status |
 |---|---|
 | 1. Groundwork: fetch + decode champion runs | Done |
-| 2. Replay mod (frame-perfect: Desert 1 replayed matches champion to the milisecond) | Done |
+| 2. Replay mod (frame-perfect: Desert 1 replayed matches champion to the millisecond) | Done |
 | 3. Standing on the shoulders of giants (optimize the champion) | YOU'RE NEXT |
 | 4. Electric Boogaloo (multi-track agent that imagines) | Coming to a hot single near you Soon (TM) |
 
