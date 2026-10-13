@@ -1,5 +1,16 @@
+# Other projects kept for reference (they have their own git history)
 references/
 
+# PolyTrack game files: never commit them (copyright); re-download instead
 /vendor/
 
+# Downloaded leaderboard runs and their decoded copies (regenerate with src/decode_player.py)
+/recordings/
+/output/
+
+# Python
 .venv/
+__pycache__/
+
+# macOS
+.DS_Store
