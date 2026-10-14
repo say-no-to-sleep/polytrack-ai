@@ -8,9 +8,13 @@ references/
 /recordings/
 /output/
 
+# Experiment logs and raw results
+/logs/
+
 # Python
 .venv/
 __pycache__/
 
 # macOS
 .DS_Store
+/.claude/
